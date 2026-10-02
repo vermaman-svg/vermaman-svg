@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm currently learning C programming. 
+You can reach me on my Linkdin account : https://www.linkedin.com/in/aman-verma-59b3753ab/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLCrajaP4R9mtIpLIQ6K7Kg%3D%3D
 
 <!--
 **vermaman-svg/vermaman-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
